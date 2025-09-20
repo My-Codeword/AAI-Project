@@ -1,0 +1,3 @@
+age,gender,impluse,pressurehight,pressurelow,glucose,kcm,troponin,output,flag,username,timestamp
+32,1,58,48,57,38,6,10,,,,2025-04-07 11:43:47.425187
+64,1,66,160,83,160,1,0.012,,,,2025-04-07 11:45:25.935004
